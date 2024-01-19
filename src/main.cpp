@@ -18,7 +18,7 @@ int now_count = 0;
 BleKeyboard bleKeyboard("旋转按钮", "DYQ", 100);
 
 // WIFI AP
-const char *AP_ssid = "ESP32_EC11";
+const char *AP_ssid = "Dyqiang_01";
 const char *AP_password = "0000000001";
 IPAddress local_ip(192, 168, 0, 1);
 IPAddress gateway(192, 168, 0, 1);
